@@ -1,0 +1,7 @@
+{
+    "name": "doregarray",
+    "version": "1.0.0",
+    "bin": {
+        "doregarray": "index.js"
+    }
+}
