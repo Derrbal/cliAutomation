@@ -2,6 +2,6 @@
     "name": "doregarray-dan",
     "version": "1.0.0",
     "bin": {
-        "doregarray": "index.js"
+        "doregarray-dan": "index.js"
     }
 }
