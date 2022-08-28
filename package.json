@@ -1,11 +1,14 @@
 {
     "name": "doregarray-dan",
-    "version": "1.1.0",
+    "version": "2.0.0",
     "description": "Get to know Doregarray via CLI",
     "bin": {
         "doregarray-dan": "index.js"
     },
     "dependencies": {
         "cli-welcome": "^2.2.2"
-    }
+    },
+    "keywords": [
+        "Doregarray"
+    ]
 }
