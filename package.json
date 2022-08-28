@@ -1,6 +1,6 @@
 {
     "name": "doregarray-dan",
-    "version": "2.0.1",
+    "version": "2.0.2",
     "description": "Get to know Doregarray via CLI",
     "bin": {
         "doregarray-dan": "index.js"
