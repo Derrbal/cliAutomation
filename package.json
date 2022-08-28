@@ -10,5 +10,12 @@
     },
     "keywords": [
         "Doregarray"
-    ]
+    ],
+    "license": "MIT",
+    "main": "index.js",
+    "repository": "Derrbal/cliAutomation",
+    "author": {
+        "name": "Bohdan Derbal",
+        "email": "bderbal07@gmail.com"
+    }
 }
